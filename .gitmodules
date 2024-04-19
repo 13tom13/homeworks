@@ -1,0 +1,8 @@
+[submodule "training-diary-collections"]
+	path = training-diary-collections
+	url = https://github.com/13tom13/training-diary.git
+	branch = collections
+[submodule "training-diary-JDBC"]
+	path = training-diary-JDBC
+	url = https://github.com/13tom13/training-diary.git
+	branch = JDBC
